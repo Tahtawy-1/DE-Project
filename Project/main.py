@@ -6,7 +6,9 @@ import requests
 import numpy as np
 import matplotlib.pyplot as plt
 
-API_key = 'https://api.restcountries.com/countries/v5?response_fields=names.common,borders,currencies,area,population,region,languages&limit=100'
+PARAMETERS = ["names.common","borders","currencies","area,population","region","languages","economy","area","coordinates"]
+
+API_key = f"https://api.restcountries.com/countries/v5?response_fields={",".join(PARAMETERS)}&limit=100"
 
 headers = {
     "Authorization": f"Bearer rc_live_c3badbed198e4610b8cc7f0abc9f7401"
@@ -45,11 +47,18 @@ df = df.sort_values(by=['region', 'population'], ascending=[True, False])
 # Resetting the names of some columns
 df['Region'] = df['region']
 df['Population'] = df['population']
+df['Economy'] = df['economy']
+df['Coordinates'] = df['coordinates']
+
+# Setting Area ---> Kilometers only
+df['Area'] = df['area'].str['kilometers'].astype(float)
 
 # Dropping old columns, keeping the new formatted
-df = df[['Name', 'Currency', 'Borders','Area', 'Language', 'Region', 'Population']]
+df = df[['Name', 'Currency', 'Borders','Area', 'Language', 'Region', 'Population', 'Area', 'Economy', 'Coordinates']]
 
 # Resetting the indeces
 df = df.reset_index(drop=True)
 
 print(df.head(5))
+
+df.to_csv("Cleaned_Data.csv")
