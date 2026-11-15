@@ -1,8 +1,11 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+
+df = pd.read_csv("Cleaned_Data.csv")
+
 df.boxplot(
-    column='population',
+    column='Population',
     figsize=(8, 5)
 )
 
