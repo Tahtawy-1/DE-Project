@@ -8,6 +8,7 @@ df.groupby('Region')['Population'].sum().plot(
     kind='barh',
     figsize=(10, 5)
 )
+
 plt.title('Total Population by Region')
 plt.xlabel('Region')
 plt.ylabel('Population')

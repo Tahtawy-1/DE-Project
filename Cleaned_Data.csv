@@ -1,0 +1,101 @@
+,Name,Currency,Borders,Area,Language,Region,Population,Area,Economy,Latitude,Longitude
+0,DRC,Congolese franc,"AGO, BDI, CAF, COG, RWA, SSD, TZA, UGA, ZMB",2344858.0,fr,Africa,116452000,2344858.0,"{'gini_coefficient': {'2004': 41.6, '2012': 42.1, '2020': 44.7}}",0.0,25.0
+1,Ethiopia,Ethiopian birr,"DJI, ERI, KEN, SOM, SSD, SDN",1104300.0,am,Africa,111652998,1104300.0,"{'gini_coefficient': {'1999': 30, '2004': 29.8, '2010': 33.2, '2015': 35, '2021': 31.1}}",8.0,38.0
+2,Egypt,Egyptian pound,"ISR, LBY, PSE, SDN",1002450.0,ar,Africa,108613296,1002450.0,"{'gini_coefficient': {'2012': 28.3, '2015': 31.8, '2017': 31.5, '2019': 31.9, '2021': 28.5}}",27.0,30.0
+3,Algeria,Algerian dinar,"TUN, LBY, NER, ESH, MRT, MLI, MAR",2381741.0,ar,Africa,47400000,2381741.0,"{'gini_coefficient': {'1988': 37.4, '1995': 35.3, '2011': 27.6}}",28.0,3.0
+4,Angola,Angolan kwanza,"COG, COD, ZMB, NAM",1246700.0,pt,Africa,38778554,1246700.0,"{'gini_coefficient': {'2000': 51.9, '2008': 42.7, '2018': 51.3}}",-12.5,18.5
+5,Ghana,Ghanaian cedi,"BFA, CIV, TGO",238533.0,en,Africa,34378768,238533.0,"{'gini_coefficient': {'1991': 38.4, '1998': 40.1, '2005': 42.8, '2012': 42.4, '2016': 43.5}}",8.0,-2.0
+6,Cameroon,Central African CFA franc,"CAF, TCD, COG, GNQ, GAB, NGA",475442.0,en,Africa,29442327,475442.0,"{'gini_coefficient': {'1996': 44.4, '2001': 42.1, '2007': 42.8, '2014': 46.6, '2021': 42.2}}",6.0,12.0
+7,Burkina Faso,West African CFA franc,"BEN, CIV, GHA, MLI, NER, TGO",272967.0,fr,Africa,22489126,272967.0,"{'gini_coefficient': {'2003': 43.3, '2009': 39.8, '2014': 35.3, '2018': 43, '2021': 37.4}}",13.0,-2.0
+8,Chad,Central African CFA franc,"CMR, CAF, LBY, NER, NGA, SDN",1284000.0,ar,Africa,20031602,1284000.0,"{'gini_coefficient': {'2003': 39.8, '2011': 43.3, '2018': 37.5, '2022': 37.4}}",15.0,19.0
+9,Guinea,Guinean franc,"CIV, GNB, LBR, MLI, SEN, SLE",245857.0,fr,Africa,17521167,245857.0,"{'gini_coefficient': {'1994': 46.1, '2002': 43, '2007': 39.4, '2012': 33.7, '2018': 29.6}}",11.0,-10.0
+10,Benin,West African CFA franc,"BFA, NER, NGA, TGO",112622.0,fr,Africa,13551992,112622.0,"{'gini_coefficient': {'2003': 38.6, '2011': 43.4, '2015': 47.6, '2018': 37.9, '2021': 34.4}}",9.5,2.25
+11,Burundi,Burundian franc,"COD, RWA, TZA",27834.0,fr,Africa,12332788,27834.0,"{'gini_coefficient': {'1992': 33.3, '1998': 42.1, '2006': 33.4, '2013': 38.6, '2020': 37.5}}",-3.5,30.0
+12,Congo,Central African CFA franc,"AGO, CMR, CAF, COD, GAB",342000.0,fr,Africa,6332961,342000.0,"{'gini_coefficient': {'2005': 47.3, '2011': 48.9}}",-1.0,15.0
+13,Central African Republic,Central African CFA franc,"CMR, TCD, COD, COG, SSD, SDN",622984.0,fr,Africa,5513282,622984.0,"{'gini_coefficient': {'1992': 59.7, '2008': 56.2, '2021': 43}}",7.0,21.0
+14,Eritrea,Eritrean nakfa,"DJI, ETH, SDN",117600.0,ar,Africa,3682669,117600.0,{'gini_coefficient': {}},15.0,39.0
+15,Botswana,Botswana pula,"NAM, ZAF, ZMB, ZWE",582000.0,en,Africa,2515633,582000.0,"{'gini_coefficient': {'1985': 54.2, '1993': 60.1, '2002': 61.5, '2009': 56.9, '2015': 54.9}}",-22.0,24.0
+16,Gabon,Central African CFA franc,"CMR, COG, GNQ",267668.0,fr,Africa,2469296,267668.0,"{'gini_coefficient': {'2005': 42.2, '2017': 38}}",-1.0,11.75
+17,Gambia,Gambian dalasi,SEN,10689.0,en,Africa,2422712,10689.0,"{'gini_coefficient': {'1998': 48.3, '2003': 47.3, '2010': 43.6, '2015': 35.9, '2020': 38.8}}",13.46666666,-16.56666666
+18,Guinea-Bissau,West African CFA franc,"GIN, SEN",36125.0,pt,Africa,1890252,36125.0,"{'gini_coefficient': {'1993': 43.6, '2002': 35.6, '2010': 50.6, '2018': 34.8, '2021': 33.4}}",12.0,-15.0
+19,Equatorial Guinea,Central African CFA franc,"CMR, GAB",28051.0,fr,Africa,1795834,28051.0,{'gini_coefficient': {'2022': 38.5}},2.0,10.0
+20,Eswatini,Swazi lilangeni,"MOZ, ZAF",17364.0,en,Africa,1235549,17364.0,"{'gini_coefficient': {'1994': 58.7, '2000': 53.1, '2009': 51.4, '2016': 54.6}}",-26.5,31.5
+21,Djibouti,Djiboutian franc,"ERI, ETH, SOM",23200.0,ar,Africa,1066809,23200.0,"{'gini_coefficient': {'2002': 40, '2012': 45.1, '2013': 44.1, '2017': 41.6}}",11.5,43.0
+22,Comoros,Comorian franc,ISLAND,1862.0,ar,Africa,944388,1862.0,"{'gini_coefficient': {'2004': 55.9, '2014': 45.3, '2020': 34.2, '2024': 30.3}}",-12.16666666,44.25
+23,Cabo Verde,Cape Verdean escudo,ISLAND,4033.0,pt,Africa,491233,4033.0,"{'gini_coefficient': {'2001': 52.5, '2007': 47.2, '2015': 42.4}}",16.5388,-23.0418
+24,British Indian Ocean Territory,United States dollar,ISLAND,60.0,en,Africa,2000,60.0,{'gini_coefficient': {}},-6.0,71.5
+25,Brazil,Brazilian real,"ARG, BOL, COL, GUF, GUY, PRY, PER, SUR, URY, VEN",8515767.0,pt,Americas,214211951,8515767.0,"{'gini_coefficient': {'2020': 48.8, '2021': 52.9, '2022': 51.9, '2023': 51.5, '2024': 50.3}}",-10.0,-55.0
+26,Colombia,Colombian peso,"BRA, ECU, PAN, PER, VEN",1141748.0,es,Americas,53399171,1141748.0,"{'gini_coefficient': {'2020': 54.4, '2021': 55.1, '2022': 54.8, '2023': 54.6, '2024': 54.4}}",4.0,-72.0
+27,Argentina,Argentine peso,"BOL, BRA, CHL, PRY, URY",2780400.0,gn,Americas,46466688,2780400.0,"{'gini_coefficient': {'2020': 42.7, '2021': 42.4, '2022': 40.7, '2023': 42.4, '2024': 42.4}}",-34.0,-64.0
+28,Canada,Canadian dollar,USA,9984670.0,en,Americas,41798407,9984670.0,"{'gini_coefficient': {'2018': 32.5, '2019': 31.8, '2020': 29.9, '2021': 31.1, '2022': 31.5}}",60.0,-95.0
+29,Chile,Chilean peso,"ARG, BOL, PER",756102.0,es,Americas,20150948,756102.0,"{'gini_coefficient': {'2015': 45.3, '2017': 45.3, '2020': 47, '2022': 43.2, '2024': 43}}",-30.0,-71.0
+30,Guatemala,Guatemalan quetzal,"BLZ, SLV, HND, MEX",108889.0,es,Americas,18406359,108889.0,"{'gini_coefficient': {'1998': 49.4, '2000': 54.2, '2006': 54.5, '2014': 48.3, '2023': 45.2}}",15.5,-90.25
+31,Ecuador,United States dollar,"COL, PER",276841.0,es,Americas,18135478,276841.0,"{'gini_coefficient': {'2021': 45.8, '2022': 45.5, '2023': 44.6, '2024': 45.2, '2025': 45.9}}",-2.0,-77.5
+32,Haiti,Haitian gourde,DOM,27750.0,fr,Americas,11867032,27750.0,"{'gini_coefficient': {'2001': 59, '2012': 41.1}}",19.0,-72.41666666
+33,Dominican Republic,Dominican peso,HTI,48671.0,es,Americas,11532151,48671.0,"{'gini_coefficient': {'2020': 39.6, '2021': 38.5, '2022': 37, '2023': 38.4, '2024': 39}}",19.0,-70.66666666
+34,Bolivia,Bolivian boliviano,"ARG, BRA, CHL, PRY, PER",1098581.0,ay,Americas,11365333,1098581.0,"{'gini_coefficient': {'2020': 43.6, '2021': 40.9, '2022': 41.2, '2023': 42.1, '2024': 40.9}}",-17.0,-65.0
+35,Honduras,Honduran lempira,"GTM, SLV, NIC",112492.0,es,Americas,10186738,112492.0,"{'gini_coefficient': {'2017': 49.4, '2018': 48.9, '2019': 48.2, '2023': 46.8, '2024': 45.7}}",15.0,-86.5
+36,Cuba,Cuban peso,ISLAND,109884.0,es,Americas,9434593,109884.0,{'gini_coefficient': {}},21.5,-80.0
+37,El Salvador,United States dollar,"GTM, HND",21041.0,es,Americas,6029976,21041.0,"{'gini_coefficient': {'2018': 38.6, '2019': 38.8, '2021': 39, '2022': 38.8, '2023': 39.8}}",13.83333333,-88.91666666
+38,Costa Rica,Costa Rican colón,"NIC, PAN",51100.0,es,Americas,5160700,51100.0,"{'gini_coefficient': {'2021': 48.7, '2022': 47.2, '2023': 46.7, '2024': 45.8, '2025': 45.5}}",10.0,-84.0
+39,Guyana,Guyanese dollar,"BRA, SUR, VEN",214969.0,en,Americas,956044,214969.0,"{'gini_coefficient': {'1992': 39.5, '1998': 45.1}}",5.0,-59.0
+40,Belize,Belize dollar,"GTM, MEX",22966.0,bjz,Americas,418982,22966.0,"{'gini_coefficient': {'1996': 56.6, '1997': 60.4, '1998': 54.9, '1999': 53.2, '2018': 39.9}}",17.25,-88.75
+41,Guadeloupe,Euro,ISLAND,1628.0,fr,Americas,400132,1628.0,{'gini_coefficient': {}},16.25,-61.583333
+42,Bahamas,Bahamian dollar,ISLAND,13943.0,en,Americas,398165,13943.0,{'gini_coefficient': {}},25.0343,-77.3963
+43,Barbados,Barbadian dollar,ISLAND,430.0,en,Americas,261692,430.0,{'gini_coefficient': {'2016': 34.1}},13.16666666,-59.53333333
+44,French Guiana,Euro,"BRA, SUR",83534.0,fr,Americas,254541,83534.0,{'gini_coefficient': {}},4.0,-53.0
+45,Curaçao,Caribbean guilder,ISLAND,444.0,en,Americas,155826,444.0,{'gini_coefficient': {}},12.116667,-68.933333
+46,Aruba,Aruban florin,ISLAND,180.0,nl,Americas,110625,180.0,{'gini_coefficient': {}},12.5,-69.96666666
+47,Grenada,Eastern Caribbean dollar,ISLAND,344.0,en,Americas,109021,344.0,{'gini_coefficient': {'2018': 43.8}},12.11666666,-61.66666666
+48,Antigua and Barbuda,Eastern Caribbean dollar,ISLAND,442.0,en,Americas,106365,442.0,{'gini_coefficient': {}},17.05,-61.8
+49,Cayman Islands,Cayman Islands dollar,ISLAND,264.0,en,Americas,90577,264.0,{'gini_coefficient': {}},19.3133,-81.2546
+50,Dominica,Eastern Caribbean dollar,ISLAND,751.0,en,Americas,65431,751.0,{'gini_coefficient': {}},15.41666666,-61.33333333
+51,Bermuda,Bermudian dollar,ISLAND,54.0,en,Americas,64055,54.0,{'gini_coefficient': {}},32.33333333,-64.75
+52,Greenland,Danish krone,ISLAND,2166086.0,kl,Americas,56945,2166086.0,{'gini_coefficient': {}},72.0,-40.0
+53,British Virgin Islands,United States dollar,ISLAND,151.0,en,Americas,38984,151.0,{'gini_coefficient': {}},18.431383,-64.62305
+54,Caribbean Netherlands,United States dollar,ISLAND,328.0,en,Americas,31980,328.0,{'gini_coefficient': {}},12.18,-68.25
+55,Anguilla,Eastern Caribbean dollar,ISLAND,91.0,en,Americas,16010,91.0,{'gini_coefficient': {}},18.25,-63.16666666
+56,Falkland Islands,Falkland Islands pound,ISLAND,12173.0,en,Americas,3662,12173.0,{'gini_coefficient': {}},-51.75,-59.0
+57,Antarctica,,ISLAND,14000000.0,en,Antarctic,1300,14000000.0,{'gini_coefficient': {}},-90.0,0.0
+58,French Southern and Antarctic Lands,Euro,ISLAND,7747.0,fr,Antarctic,400,7747.0,{'gini_coefficient': {}},-49.25,69.167
+59,Bouvet Island,,ISLAND,49.0,no,Antarctic,0,49.0,{'gini_coefficient': {}},-54.4208,3.3464
+60,Heard Island and McDonald Islands,,ISLAND,412.0,en,Antarctic,0,412.0,{'gini_coefficient': {}},-53.0818,73.5042
+61,China,Chinese yuan,"AFG, BTN, MMR, HKG, IND, KAZ, NPL, PRK, KGZ, LAO, MAC, MNG, PAK, RUS, TJK, VNM",9706961.0,zh,Asia,1404890000,9706961.0,"{'gini_coefficient': {'2018': 38.5, '2019': 38.2, '2020': 37.1, '2021': 35.7, '2022': 36}}",35.0,105.0
+62,Bangladesh,Bangladeshi taka,"MMR, IND",147570.0,bn,Asia,169828911,147570.0,"{'gini_coefficient': {'2000': 33.4, '2005': 33.2, '2010': 32.1, '2016': 32.4, '2022': 30.9}}",24.0,90.0
+63,Afghanistan,Afghan afghani,"IRN, PAK, TKM, UZB, TJK, CHN",652230.0,prs,Asia,43844000,652230.0,{'gini_coefficient': {}},33.0,65.0
+64,Cambodia,Cambodian riel,"LAO, THA, VNM",181035.0,km,Asia,17816143,181035.0,{'gini_coefficient': {}},13.0,105.0
+65,Azerbaijan,Azerbaijani manat,"ARM, GEO, IRN, RUS, TUR",86600.0,az,Asia,10273450,86600.0,"{'gini_coefficient': {'2001': 36.5, '2002': 25.3, '2003': 26.8, '2004': 26.6, '2005': 26.6}}",40.5,47.5
+66,Hong Kong,Hong Kong dollar,CHN,1104.0,en,Asia,7498100,1104.0,{'gini_coefficient': {}},22.267,114.188
+67,Georgia,Georgian lari,"ARM, AZE, RUS, TUR",69700.0,ka,Asia,3657000,69700.0,"{'gini_coefficient': {'2020': 34.5, '2021': 34.2, '2022': 33.5, '2023': 34.8, '2024': 33.9}}",42.0,43.5
+68,Armenia,Armenian dram,"AZE, GEO, IRN, TUR",29743.0,hy,Asia,3103900,29743.0,"{'gini_coefficient': {'2020': 25.1, '2021': 27.9, '2022': 27.9, '2023': 27.2, '2024': 27.4}}",40.0,45.0
+69,Bahrain,Bahraini dinar,ISLAND,765.0,ar,Asia,1603260,765.0,{'gini_coefficient': {}},26.0,50.55
+70,Bhutan,Bhutanese ngultrum,"CHN, IND",38394.0,dz,Asia,790718,38394.0,"{'gini_coefficient': {'2003': 40.9, '2007': 38.1, '2012': 38.8, '2017': 37.4, '2022': 28.5}}",27.5,90.5
+71,Brunei,Brunei dollar,MYS,5765.0,ms,Asia,458600,5765.0,{'gini_coefficient': {}},4.5,114.66666666
+72,Abkhazia,Russian ruble,"GEO, RUS",8665.0,ab,Asia,244236,8665.0,{'gini_coefficient': {}},43.0,41.0
+73,Germany,Euro,"AUT, BEL, CZE, DNK, FRA, LUX, NLD, POL, CHE",357114.0,de,Europe,83298787,357114.0,"{'gini_coefficient': {'2018': 31.9, '2019': 32.2, '2020': 32.5, '2021': 33.6, '2022': 33.7}}",51.0,9.0
+74,France,Euro,"AND, BEL, DEU, ITA, LUX, MCO, ESP, CHE",551695.0,fr,Europe,69081996,551695.0,"{'gini_coefficient': {'2019': 31.2, '2020': 30.7, '2021': 31.5, '2022': 31.2, '2023': 31.8}}",46.0,2.0
+75,Belgium,Euro,"FRA, DEU, LUX, NLD",30528.0,de,Europe,11947050,30528.0,"{'gini_coefficient': {'2019': 27.2, '2020': 26, '2021': 26.6, '2022': 26.4, '2023': 26.8}}",50.83333333,4.0
+76,Czechia,Czech koruna,"AUT, DEU, POL, SVK",78865.0,cs,Europe,10903655,78865.0,"{'gini_coefficient': {'2019': 25.3, '2020': 26.2, '2021': 26.2, '2022': 25.9, '2023': 25.7}}",49.75,15.5
+77,Greece,Euro,"ALB, BGR, TUR, MKD",131990.0,el,Europe,10372335,131990.0,"{'gini_coefficient': {'2019': 33.1, '2020': 33.6, '2021': 32.9, '2022': 33.4, '2023': 33.4}}",39.0,22.0
+78,Austria,Euro,"CZE, DEU, HUN, ITA, LIE, SVK, SVN, CHE",83871.0,de,Europe,9228795,83871.0,"{'gini_coefficient': {'2019': 30.2, '2020': 29.8, '2021': 30.7, '2022': 30.9, '2023': 31.2}}",47.33333333,13.33333333
+79,Belarus,Belarusian ruble,"LVA, LTU, POL, RUS, UKR",207600.0,be,Europe,9056080,207600.0,"{'gini_coefficient': {'2016': 25.3, '2017': 25.4, '2018': 25.2, '2019': 25.3, '2020': 24.4}}",53.0,28.0
+80,Bulgaria,Euro,"GRC, MKD, ROU, SRB, TUR",110879.0,bg,Europe,6423207,110879.0,"{'gini_coefficient': {'2019': 40.3, '2020': 40.5, '2021': 39, '2022': 38.2, '2023': 39.5}}",43.0,25.0
+81,Denmark,Danish krone,DEU,43094.0,da,Europe,6044001,43094.0,"{'gini_coefficient': {'2019': 27.7, '2020': 27.5, '2021': 28.3, '2022': 29.3, '2023': 29.9}}",56.0,10.0
+82,Finland,Euro,"NOR, SWE, RUS",338424.0,fi,Europe,5662086,338424.0,"{'gini_coefficient': {'2019': 27.7, '2020': 27.1, '2021': 27.7, '2022': 27.9, '2023': 27.4}}",64.0,26.0
+83,Croatia,Euro,"BIH, HUN, MNE, SRB, SVN",56594.0,hr,Europe,3874993,56594.0,"{'gini_coefficient': {'2019': 28.9, '2020': 29.5, '2021': 28.9, '2022': 30, '2023': 30.1}}",45.16666666,15.5
+84,Bosnia and Herzegovina,Bosnia and Herzegovina convertible mark,"HRV, MNE, SRB",51209.0,bs,Europe,3412000,51209.0,"{'gini_coefficient': {'2004': 34, '2007': 34.3, '2011': 33.3, '2015': 32.9, '2021': 30.3}}",44.0,18.0
+85,Albania,Albanian lek,"MNE, GRC, MKD, UNK",28748.0,sq,Europe,2335930,28748.0,"{'gini_coefficient': {'2016': 33.7, '2017': 33.1, '2018': 30.1, '2019': 30.1, '2020': 29.4}}",41.0,20.0
+86,Estonia,Euro,"LVA, RUS",45227.0,et,Europe,1360745,45227.0,"{'gini_coefficient': {'2019': 30.8, '2020': 30.7, '2021': 31.8, '2022': 32.3, '2023': 30.7}}",59.0,26.0
+87,Cyprus,Euro,ISLAND,9251.0,el,Europe,996600,9251.0,"{'gini_coefficient': {'2019': 31.2, '2020': 31.7, '2021': 31.3, '2022': 31.5, '2023': 31.8}}",35.0,33.0
+88,Andorra,Euro,"FRA, ESP",468.0,ca,Europe,90271,468.0,{'gini_coefficient': {}},42.5,1.5
+89,Guernsey,British pound,ISLAND,78.0,en,Europe,64781,78.0,{'gini_coefficient': {}},49.46666666,-2.58333333
+90,Faroe Islands,Danish krone,ISLAND,1393.0,da,Europe,55466,1393.0,{'gini_coefficient': {}},62.0,-7.0
+91,Gibraltar,Gibraltar pound,ESP,6.0,en,Europe,38196,6.0,{'gini_coefficient': {}},36.13333333,-5.35
+92,Australia,Australian dollar,ISLAND,7692024.0,en,Oceania,27921150,7692024.0,"{'gini_coefficient': {'2010': 34.7, '2014': 34.4, '2016': 33.7, '2018': 34.3, '2020': 33.8}}",-27.0,133.0
+93,Fiji,Fijian dollar,ISLAND,18272.0,en,Oceania,902623,18272.0,"{'gini_coefficient': {'2002': 38.1, '2008': 40.4, '2013': 36.7, '2019': 30.7}}",-17.7134,178.065
+94,French Polynesia,CFP franc,ISLAND,4167.0,fr,Oceania,278786,4167.0,{'gini_coefficient': {}},-17.6797,-149.4068
+95,Guam,United States dollar,ISLAND,549.0,ch,Oceania,153836,549.0,{'gini_coefficient': {}},13.46666666,144.78333333
+96,American Samoa,United States dollar,ISLAND,199.0,en,Oceania,43268,199.0,{'gini_coefficient': {}},-14.33333333,-170.0
+97,Cook Islands,Cook Islands dollar,ISLAND,236.0,en,Oceania,15040,236.0,{'gini_coefficient': {}},-21.23333333,-159.76666666
+98,Christmas Island,Australian dollar,ISLAND,135.0,en,Oceania,1692,135.0,{'gini_coefficient': {}},-10.5,105.66666666
+99,Cocos (Keeling) Islands,Australian dollar,ISLAND,14.0,en,Oceania,593,14.0,{'gini_coefficient': {}},-12.1642,96.871
