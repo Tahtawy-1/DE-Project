@@ -19,5 +19,6 @@ try:
     plt.xlabel("Year")
     plt.ylabel("Gini Coefficient")
     plt.show()
+    
 except KeyError:
     print("Sorry, this country's data isn't available :(")

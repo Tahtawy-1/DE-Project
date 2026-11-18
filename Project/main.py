@@ -6,9 +6,9 @@ import requests
 import numpy as np
 import matplotlib.pyplot as plt
 
-PARAMETERS = ["names.common","borders","currencies","area,population","region","languages","economy","area","coordinates"]
+#PARAMETERS = ["names.common","borders","currencies","area,population","region","languages","economy","area","coordinates"]
 
-API_key = f"https://api.restcountries.com/countries/v5?response_fields={",".join(PARAMETERS)}&limit=100"
+API_key = f"https://api.restcountries.com/countries/v5?limit=100"
 
 headers = {
     "Authorization": f"Bearer rc_live_c3badbed198e4610b8cc7f0abc9f7401"
