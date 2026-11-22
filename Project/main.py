@@ -6,7 +6,7 @@ import requests
 import numpy as np
 import matplotlib.pyplot as plt
 
-#PARAMETERS = ["names.common","borders","currencies","area,population","region","languages","economy","area","coordinates"]
+#PARAMETERS = ["names.common","borders","currencies","population","region","languages","economy","area","coordinates"]
 
 API_key = f"https://api.restcountries.com/countries/v5?limit=100"
 
@@ -27,8 +27,9 @@ print(df.columns)
 # Sitting names ---> Common name only
 df['Name'] = df['names'].str['common'].astype(str)
 
-# Sitting Currency ---> The first one in the list of used currencies
-df['Currency'] = df['currencies'].str[0].str['name'].astype(str)
+# Sitting Currency ---> The first one in the list of used currencies + symbol
+
+df['Currency'] = df['currencies'].str[0].str['name'].astype(str) + " " + df['currencies'].str[0].str['symbol'].astype(str)
 
 # sitting Area ---> Kilometers only
 df['Area'] = df['area'].str['kilometers'].astype(int)
@@ -38,8 +39,8 @@ df['Borders'] = df['borders'].str.join(', ').astype(str) # Turn the list into Co
 df['Borders'] = df['Borders'].replace('', 'ISLAND') # Any empty string indicates an ISLAND
 
 # Dealing with the languages column
-df['Language'] = df['languages'].str[0].str['bcp47']
-df['Language'] = df['Language'].fillna('en') # Removing Null values: Default language is mainly English
+df['Language'] = df['languages'].str[0].str['name']
+df['Language'] = df['Language'].fillna('English') # Removing Null values: Default language is mainly English
 
 # Sorting the DF by: Region & population
 df = df.sort_values(by=['region', 'population'], ascending=[True, False])
@@ -59,7 +60,7 @@ df['Population'] = df['population']
 df['Area'] = df['area'].str['kilometers'].astype(float)
 
 # Dropping old columns, keeping the new formatted
-df = df[['Name', 'Currency', 'Borders','Area', 'Language', 'Region', 'Population', 'Area', 'Economy', 'Latitude', 'Longitude']]
+df = df[['Name', 'Currency', 'Borders','Area', 'Language', 'Region', 'Population', 'Economy', 'Latitude', 'Longitude']]
 
 # Resetting the indeces
 df = df.reset_index(drop=True)
